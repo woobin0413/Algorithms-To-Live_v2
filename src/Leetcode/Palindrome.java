@@ -1,7 +1,5 @@
 package Leetcode;
 
-import java.util.Iterator;
-
 public class Palindrome {
 	public boolean isPalindrome(int x) {
 //		if (x < 0 || String.valueOf(x).substring(String.valueOf(x).length() - 1) == "0") {
