@@ -1,8 +1,6 @@
 package Leetcode;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
 import java.util.List;
 
 public class Kids_With_the_Greatest_Number_of_Candies {
